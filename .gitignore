@@ -1,0 +1,37 @@
+# Dependencies
+node_modules
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Build output
+dist
+build
+.tsc-out
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Cache
+.cache
+.eslintcache
+
+# Misc
+.turbo
+.next
