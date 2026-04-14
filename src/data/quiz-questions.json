@@ -1,0 +1,469 @@
+{
+  "title": "Bộ câu hỏi trắc nghiệm: Lý luận nhận thức & vai trò của thực tiễn",
+  "description": "Bộ 25 câu hỏi trắc nghiệm về triết học Mác - Lênin",
+  "topic": "Lý luận nhận thức",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo triết học Mác - Lênin, thực tiễn là gì?",
+      "options": {
+        "A": "Toàn bộ hoạt động suy nghĩ và tư duy của con người.",
+        "B": "Toàn bộ những hoạt động vật chất - cảm tính, có tính lịch sử - xã hội của con người nhằm cải tạo tự nhiên và xã hội.",
+        "C": "Những hoạt động tinh thần nhằm mở rộng tri thức về thế giới.",
+        "D": "Hoạt động bản năng của con người để thích nghi với môi trường."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Nhận định của Marx \"Vấn đề tìm hiểu xem tư duy của con người có thể đạt tới chân lý khách quan không... là một vấn đề thực tiễn\" nhấn mạnh vai trò nào của thực tiễn?",
+      "options": {
+        "A": "Thực tiễn là nguồn gốc của nhận thức.",
+        "B": "Thực tiễn là mục đích của nhận thức.",
+        "C": "Thực tiễn là tiêu chuẩn để kiểm tra chân lý.",
+        "D": "Thực tiễn là động lực của nhận thức."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Hình thức hoạt động thực tiễn sớm nhất, cơ bản nhất và quan trọng nhất là:",
+      "options": {
+        "A": "Hoạt động chính trị - xã hội.",
+        "B": "Hoạt động thực nghiệm khoa học.",
+        "C": "Hoạt động sáng tạo nghệ thuật.",
+        "D": "Hoạt động sản xuất vật chất."
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Đặc điểm nào sau đây KHÔNG phải của hoạt động thực tiễn?",
+      "options": {
+        "A": "Là hoạt động vật chất, cảm tính.",
+        "B": "Là hoạt động chỉ diễn ra trong tư duy của các nhà khoa học.",
+        "C": "Là phương thức tồn tại cơ bản, phổ biến của con người và xã hội.",
+        "D": "Là hoạt động có tính mục đích nhằm cải biến thế giới."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Vai trò của thực tiễn là \"động lực của nhận thức\" thể hiện ở việc:",
+      "options": {
+        "A": "Thực tiễn đề ra nhu cầu, nhiệm vụ và phương hướng phát triển của nhận thức.",
+        "B": "Thực tiễn là nơi bắt đầu và kết thúc của một vòng khâu nhận thức.",
+        "C": "Thực tiễn chứng minh tính đúng đắn của lý luận.",
+        "D": "Thực tiễn giúp con người giải tỏa nhu cầu tinh thần."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Giai đoạn nhận thức cảm tính (Trực quan sinh động) bao gồm các hình thức nào?",
+      "options": {
+        "A": "Khái niệm, phán đoán, suy lý.",
+        "B": "Cảm giác, tri giác, khái niệm.",
+        "C": "Cảm giác, tri giác, biểu tượng.",
+        "D": "Biểu tượng, khái niệm, phán đoán."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Hình thức nào là khâu trung gian chuyển từ nhận thức cảm tính lên nhận thức lý tính?",
+      "options": {
+        "A": "Cảm giác.",
+        "B": "Tri giác.",
+        "C": "Biểu tượng.",
+        "D": "Suy luận."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Đặc điểm của nhận thức lý tính là:",
+      "options": {
+        "A": "Phản ánh trực tiếp khách thể thông qua các giác quan.",
+        "B": "Phản ánh gián tiếp, khái quát sự vật trong tính tất yếu và chỉnh thể.",
+        "C": "Chỉ phản ánh được vẻ bề ngoài, ngẫu nhiên của sự vật.",
+        "D": "Luôn đảm bảo tính chính xác tuyệt đối mà không cần kiểm tra."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Chân lý khách quan là gì?",
+      "options": {
+        "A": "Là tri thức được nhiều người thừa nhận là đúng.",
+        "B": "Là tri thức phù hợp với hiện thực khách quan và được thực tiễn kiểm nghiệm.",
+        "C": "Là những ý tưởng mang lại lợi ích ngay lập tức cho con người.",
+        "D": "Là những quy luật toán học không bao giờ thay đổi."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Tính cụ thể của chân lý có nghĩa là:",
+      "options": {
+        "A": "Chân lý luôn phản ánh sự vật trong những điều kiện, hoàn cảnh lịch sử cụ thể nhất định.",
+        "B": "Chân lý phải được trình bày bằng những con số cụ thể.",
+        "C": "Chân lý không bao giờ thay đổi theo thời gian.",
+        "D": "Chân lý đúng cho mọi trường hợp mà không cần điều kiện."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Con đường biện chứng của sự nhận thức chân lý theo Lênin là:",
+      "options": {
+        "A": "Từ thực tiễn đến tư duy trừu tượng và quay lại thực tiễn.",
+        "B": "Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn.",
+        "C": "Từ cảm giác đến tri giác và kết thúc ở biểu tượng.",
+        "D": "Từ lý luận thuần túy đến các định luật khoa học."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Hình thức thực tiễn nào giúp con người chủ động tạo ra những điều kiện không có sẵn trong tự nhiên để thí nghiệm?",
+      "options": {
+        "A": "Sản xuất vật chất.",
+        "B": "Hoạt động chính trị.",
+        "C": "Thực nghiệm khoa học.",
+        "D": "Đấu tranh giai cấp."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Thực tiễn là \"mục đích của nhận thức\" vì:",
+      "options": {
+        "A": "Con người nhận thức là để có tri thức áp dụng vào đời sống, phục vụ con người.",
+        "B": "Nhận thức tự thân nó là mục đích cuối cùng của con người.",
+        "C": "Thực tiễn cung cấp công cụ như kính hiển vi để nhận thức tốt hơn.",
+        "D": "Mọi tri thức đều bắt nguồn từ nhu cầu thực tiễn."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Tại sao nhận thức lý tính có nguy cơ xa rời hiện thực?",
+      "options": {
+        "A": "Vì nó phản ánh sự vật trực tiếp bằng giác quan.",
+        "B": "Vì nó phản ánh gián tiếp, khái quát sự vật dưới dạng trừu tượng.",
+        "C": "Vì nó không có tính sáng tạo.",
+        "D": "Vì nó dựa trên tri giác của con người."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Theo quan điểm thực tiễn, việc \"xa rời thực tiễn\" sẽ dẫn đến sai lầm nào?",
+      "options": {
+        "A": "Chủ nghĩa kinh nghiệm.",
+        "B": "Chủ nghĩa thực dụng.",
+        "C": "Bệnh giáo điều, chủ quan, duy ý chí.",
+        "D": "Chủ nghĩa duy vật biện chứng."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 16,
+      "question": "Hình thức nhận thức nào là sự tổng hợp của nhiều cảm giác, cho ta hình ảnh trọn vẹn về sự vật?",
+      "options": {
+        "A": "Tri giác.",
+        "B": "Khái niệm.",
+        "C": "Phán đoán.",
+        "D": "Biểu tượng."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Tri thức kinh nghiệm khác tri thức lý luận ở chỗ:",
+      "options": {
+        "A": "Tri thức kinh nghiệm sâu sắc hơn tri thức lý luận.",
+        "B": "Tri thức kinh nghiệm mới chỉ đem lại hiểu biết về các mặt riêng lẻ, bề ngoài của sự vật.",
+        "C": "Tri thức kinh nghiệm chỉ ra được tính tất yếu của sự vật.",
+        "D": "Tri thức lý luận dựa trên quan sát trực tiếp."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Tính tuyệt đối của thực tiễn với tư cách tiêu chuẩn chân lý thể hiện ở:",
+      "options": {
+        "A": "Thực tiễn luôn đứng im không thay đổi.",
+        "B": "Thực tiễn là tiêu chuẩn khách quan duy nhất để kiểm tra, khẳng định chân lý.",
+        "C": "Mọi thực tiễn đều chứng minh được tất cả mọi thứ cùng một lúc.",
+        "D": "Thực tiễn không phụ thuộc vào điều kiện lịch sử."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Để nắm bắt bản chất sự vật, nhận thức phải chuyển từ giai đoạn nào sang giai đoạn nào?",
+      "options": {
+        "A": "Từ nhận thức lý tính sang nhận thức cảm tính.",
+        "B": "Từ nhận thức cảm tính sang nhận thức lý tính.",
+        "C": "Từ tư duy trừu tượng sang trực quan sinh động.",
+        "D": "Từ chân lý sang thực tiễn."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Ví dụ về thí nghiệm của Galilê tại tháp nghiêng Pisa minh họa cho vai trò nào của thực tiễn?",
+      "options": {
+        "A": "Thực tiễn là nguồn gốc nhận thức.",
+        "B": "Thực tiễn là tiêu chuẩn của chân lý.",
+        "C": "Thực tiễn là động lực phát triển tri giác.",
+        "D": "Thực tiễn là mục đích của khoa học."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Hình thức tư duy nào liên kết các khái niệm để khẳng định hoặc phủ định một thuộc tính của sự vật?",
+      "options": {
+        "A": "Khái niệm.",
+        "B": "Phán đoán.",
+        "C": "Suy luận.",
+        "D": "Tri giác."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Nhận thức khoa học khác nhận thức thông thường ở điểm nào?",
+      "options": {
+        "A": "Hình thành tự phát trong đời sống hàng ngày.",
+        "B": "Phản ánh những mối liên hệ bản chất, tất nhiên, mang tính quy luật của đối tượng.",
+        "C": "Không cần dựa trên hoạt động thực tiễn.",
+        "D": "Chỉ dựa vào kinh nghiệm cá nhân."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Việc tuyệt đối hóa nhận thức cảm tính, phủ nhận vai trò của lý tính sẽ rơi vào:",
+      "options": {
+        "A": "Chủ nghĩa duy lý cực đoan.",
+        "B": "Chủ nghĩa duy cảm.",
+        "C": "Chủ nghĩa duy vật biện chứng.",
+        "D": "Chủ nghĩa hoài nghi."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 24,
+      "question": "\"Vòng khâu của nhận thức\" lặp đi lặp lại nhằm mục đích gì?",
+      "options": {
+        "A": "Để chứng minh tri thức là không thể đạt tới.",
+        "B": "Để giải quyết mâu thuẫn giữa biết ít và biết nhiều, tiến gần hơn tới chân lý.",
+        "C": "Để thay thế hoàn toàn thực tiễn bằng lý luận.",
+        "D": "Để trì hoãn việc cải tạo thế giới."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Nguyên tắc \"Học đi đôi với hành\" là biểu hiện phương pháp luận của:",
+      "options": {
+        "A": "Quan điểm duy tâm.",
+        "B": "Quan điểm thực tiễn.",
+        "C": "Thuyết không thể biết.",
+        "D": "Chủ nghĩa kinh nghiệm."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Khi nói thực tiễn \"cung cấp vật liệu cho nhận thức\", điều đó có nghĩa là:",
+      "options": {
+        "A": "Thực tiễn tạo ra lý luận một cách trực tiếp",
+        "B": "Thực tiễn cung cấp dữ liệu, hiện tượng để con người quan sát và nghiên cứu",
+        "C": "Thực tiễn thay thế hoàn toàn tư duy",
+        "D": "Thực tiễn không liên quan đến nhận thức"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Việc chế tạo kính hiển vi, kính thiên văn chứng minh vai trò nào của thực tiễn?",
+      "options": {
+        "A": "Mục đích của nhận thức",
+        "B": "Tiêu chuẩn của chân lý",
+        "C": "Động lực và phương tiện của nhận thức",
+        "D": "Hạn chế của nhận thức"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 28,
+      "question": "Nhận định nào thể hiện rõ nhất thực tiễn là mục đích của nhận thức?",
+      "options": {
+        "A": "Con người quan sát tự nhiên để hiểu thế giới",
+        "B": "Con người nghiên cứu để cải tạo tự nhiên và xã hội",
+        "C": "Con người suy nghĩ để phát triển trí tuệ",
+        "D": "Con người tích lũy tri thức để tranh luận"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Tính tương đối của thực tiễn với tư cách tiêu chuẩn chân lý thể hiện ở:",
+      "options": {
+        "A": "Thực tiễn luôn đúng trong mọi trường hợp",
+        "B": "Thực tiễn thay đổi theo điều kiện lịch sử cụ thể",
+        "C": "Thực tiễn không kiểm chứng được tri thức",
+        "D": "Thực tiễn chỉ áp dụng cho khoa học tự nhiên"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Nếu một lý thuyết đúng trong phòng thí nghiệm nhưng thất bại khi áp dụng ngoài thực tế, điều đó chứng tỏ:",
+      "options": {
+        "A": "Lý thuyết hoàn toàn đúng",
+        "B": "Thực tiễn không đáng tin",
+        "C": "Lý thuyết chưa đạt chân lý",
+        "D": "Không cần kiểm tra lại"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 31,
+      "question": "Đại dịch COVID-19 đóng vai trò gì đối với nhận thức khoa học?",
+      "options": {
+        "A": "Tiêu chuẩn chân lý",
+        "B": "Nguồn gốc và động lực nhận thức",
+        "C": "Kết quả của nhận thức",
+        "D": "Hạn chế của khoa học"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Các thử nghiệm lâm sàng vaccine minh họa vai trò nào của thực tiễn?",
+      "options": {
+        "A": "Nguồn gốc nhận thức",
+        "B": "Mục đích nhận thức",
+        "C": "Tiêu chuẩn kiểm tra chân lý",
+        "D": "Động lực tinh thần"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Nếu vaccine gây tác dụng phụ nghiêm trọng, điều này buộc phải:",
+      "options": {
+        "A": "Giữ nguyên lý thuyết",
+        "B": "Điều chỉnh hoặc bác bỏ lý thuyết",
+        "C": "Bỏ qua thực nghiệm",
+        "D": "Ngừng nghiên cứu"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 34,
+      "question": "Việc áp dụng vaccine vào cộng đồng thể hiện:",
+      "options": {
+        "A": "Thực tiễn là nguồn gốc",
+        "B": "Thực tiễn là mục đích",
+        "C": "Thực tiễn là lý luận",
+        "D": "Thực tiễn là cảm tính"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Dữ liệu huấn luyện AI có vai trò gì?",
+      "options": {
+        "A": "Là kết quả nhận thức",
+        "B": "Là cơ sở thực tiễn ban đầu",
+        "C": "Là mục đích cuối cùng",
+        "D": "Không liên quan"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Phản hồi của người dùng đối với AI giúp:",
+      "options": {
+        "A": "Giữ nguyên mô hình",
+        "B": "Hoàn thiện và điều chỉnh tri thức",
+        "C": "Giảm độ chính xác",
+        "D": "Thay thế thực tiễn"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Một hệ thống AI được coi là tốt khi:",
+      "options": {
+        "A": "Có lý thuyết phức tạp",
+        "B": "Có nhiều dữ liệu",
+        "C": "Hoạt động hiệu quả trong thực tế",
+        "D": "Được nhiều người thích"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Việc liên tục cập nhật AI dựa trên phản hồi thể hiện vai trò nào của thực tiễn?",
+      "options": {
+        "A": "Tiêu chuẩn chân lý + động lực phát triển",
+        "B": "Chỉ là mục đích",
+        "C": "Không liên quan nhận thức",
+        "D": "Chỉ là nguồn gốc"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 39,
+      "question": "\"Học mà không hành thì vô ích\" phản ánh:",
+      "options": {
+        "A": "Vai trò của lý luận",
+        "B": "Vai trò của thực tiễn",
+        "C": "Vai trò của cảm giác",
+        "D": "Vai trò của kinh nghiệm"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Nếu một nhà khoa học chỉ nghiên cứu lý thuyết mà không kiểm chứng, dễ rơi vào:",
+      "options": {
+        "A": "Chủ nghĩa duy cảm",
+        "B": "Chủ nghĩa giáo điều",
+        "C": "Chủ nghĩa duy vật",
+        "D": "Chủ nghĩa khoa học"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Nhận định nào đúng nhất?",
+      "options": {
+        "A": "Thực tiễn chỉ là điểm bắt đầu",
+        "B": "Thực tiễn chỉ là điểm kết thúc",
+        "C": "Thực tiễn là cả điểm bắt đầu, động lực, mục đích và tiêu chuẩn",
+        "D": "Thực tiễn không quan trọng"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Vì sao thực tiễn là tiêu chuẩn khách quan?",
+      "options": {
+        "A": "Do con người quy định",
+        "B": "Do xã hội thống nhất",
+        "C": "Vì nó tồn tại độc lập với ý thức",
+        "D": "Vì nó mang tính chủ quan"
+      },
+      "correctAnswer": "C"
+    }
+  ]
+}

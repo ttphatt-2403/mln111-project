@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { Link } from 'react-router'
 import { motion, useScroll, AnimatePresence } from 'motion/react'
 import { Moon, Sun, BookOpen } from 'lucide-react'
 
@@ -89,6 +90,22 @@ export default function App() {
                   <p className="text-xs text-muted-foreground tracking-wider">Mác-Lênin</p>
                 </div>
               </div>
+
+              {/* Game button */}
+              <Link to="/game">
+                <motion.div
+                  whileHover={{ scale: 1.04 }}
+                  whileTap={{ scale: 0.96 }}
+                  className="hidden sm:flex items-center gap-2 px-4 py-2 rounded-sm
+                    bg-gradient-to-r from-amber-800/80 to-amber-700/80
+                    border border-amber-600/40 text-amber-100 text-sm font-semibold
+                    hover:from-amber-700/90 hover:to-amber-600/90 transition-all shadow-sm"
+                  style={cormorant}
+                >
+                  <span>🎴</span>
+                  <span className="tracking-wider">Chơi Game Xì Dách</span>
+                </motion.div>
+              </Link>
 
               {/* Reading progress pill */}
               <AnimatePresence>
