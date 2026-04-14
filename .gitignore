@@ -35,3 +35,7 @@ pnpm-debug.log*
 # Misc
 .turbo
 .next
+
+# Vercel (chứa project ID - không commit vì đã lưu trong GitHub Secrets)
+.vercel
+.env*.local
