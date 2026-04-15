@@ -7,6 +7,7 @@ import FloatingParticles from './components/layout/FloatingParticles'
 import SideChapterNav from './components/layout/SideChapterNav'
 import MarqueeBand from './components/layout/MarqueeBand'
 import BackToTopButton from './components/layout/BackToTopButton'
+import AiCredits from './components/layout/AiCredits'
 
 import HeroSection from './sections/HeroSection'
 import IntroSection from './sections/IntroSection'
@@ -157,6 +158,9 @@ export default function App() {
           <BackToTopButton readingProgress={readingProgress} />
         )}
       </AnimatePresence>
+
+      {/* ── AI Credits ── */}
+      <AiCredits />
 
       {/* ── Footer ── */}
       <footer className="py-12 border-t-2 border-primary/30 bg-background/95">
